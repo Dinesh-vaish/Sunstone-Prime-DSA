@@ -1,22 +1,18 @@
 # Sunstone-Prime-DSA
 
-# Sunstone-Prime-DSA
+## Information
+This section of my repo is where all my practice problems pertaining to Data Structures/Algorithms are stored.
+It includes solutions to various LeetCode problems to help with coding interview prep.
 
-## About
-
-This repository contains my Data Structures and Algorithms practice.
-It includes solutions to LeetCode problems as part of my coding interview preparation.
-
-Goal: Improve problem-solving skills and build strong DSA fundamentals.
+Goal: To develop thought processes for approaching and solving a wide range of different problems, and to create strong fundamentals of Data Structures and Algorithms.
 
 ---
 
-## Progress
+## Stats
 
-Total Questions Solved: 50
-Platform: LeetCode
-Practice: Daily
-
+Total Number of Problems Solved So Far: 50
+Source of Problems (In this case, Platform): Leetcode
+Fix/Practice Problems: Daily
 ---
 
 ## Topics Covered
