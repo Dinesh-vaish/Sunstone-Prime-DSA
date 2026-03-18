@@ -1,58 +1,109 @@
 # Sunstone-Prime-DSA
 
-# Welcome to my DSA repository! Is repository mein meri coding journey, daily practice, aur competitive programming ke solutions organized hain. Mera goal logical thinking improve karna aur coding interviews ke liye prepare karna hai.
+# Sunstone-Prime-DSA
 
+## About
 
+This repository contains my Data Structures and Algorithms practice.
+It includes solutions to LeetCode problems as part of my coding interview preparation.
 
+Goal: Improve problem-solving skills and build strong DSA fundamentals.
 
+---
 
-Leetcode Questions
+## Progress
 
---> 1492 - The kth Factor of n
---> 7 - Reverse Integer
-Leetcode Questions
+Total Questions Solved: 50
+Platform: LeetCode
+Practice: Daily
 
---> 189 --> 2529 --> 169 --> 238
+---
 
-LeetCode Questions
+## Topics Covered
 
---> 53 - Maximum Subarray --> 66 - Plus One --> 704 - Binary Search --> 724 - Find Pivot Index --> 1991 - Find the Middle Index in Array --> 3658 - GCD of Odd and Even Sums
+### Arrays
 
+1 - Two Sum
+26 - Remove Duplicates from Sorted Array
+27 - Remove Element
+53 - Maximum Subarray
+66 - Plus One
+80 - Remove Duplicates II
+88 - Merge Sorted Array
+169 - Majority Element
+189 - Rotate Array
+238 - Product of Array Except Self
+283 - Move Zeroes
 
-Leetcode Questions
+---
 
---> 27 - Remove Element --> 189 - Rotate Array --> 2529 - Maximum Count of Positive Integer and Negative Integer --> 169 - Majority Element --> 238 - Product of Array Except Self
+### Searching and Sorting
 
+4 - Median of Two Sorted Arrays
+704 - Binary Search
+75 - Sort Colors
 
---> 4 --> 42 --> 75 --> 134 --> 796
+---
 
---> 4 - Median of Two Sorted Arrays --> 42 - Trapping Rain Water --> 75 - Sort Colors --> 134 - Gas Station --> 896 - Montonic Array
+### Matrix
 
-Leetcode Questions
+48 - Rotate Image
+54 - Spiral Matrix
+59 - Spiral Matrix II
+73 - Set Matrix Zeroes
+74 - Search a 2D Matrix
+118 - Pascal’s Triangle
+498 - Diagonal Traverse
+566 - Reshape the Matrix
+1572 - Matrix Diagonal Sum
 
---> 54 - Spiral Matrix --> 59 - Spiral Matrix-II
+---
 
+### Strings
 
-Leetcode Questions
+7 - Reverse Integer
+8 - String to Integer (atoi)
+9 - Palindrome Number
+15 - 3Sum
+31 - Next Permutation
+58 - Length of Last Word
+125 - Valid Palindrome
+151 - Reverse Words in a String
+242 - Valid Anagram
+344 - Reverse String
+389 - Find the Difference
+557 - Reverse Words in a String III
+709 - To Lower Case
+1678 - Goal Parser Interpretation
+3110 - Score of a String
 
---> 48 - Rotate Image --> 74 - Search a 2D Matrix --> 118 - Pascal's Triangle
+---
 
-Leetcode Questions
+### Miscellaneous
 
---> 15 - 3Sum --> 73 - Set Matrix Zeroes --> 566 - Reshape the Matrix --> 1572 - Matrix Diagonal Sum
+42 - Trapping Rain Water
+134 - Gas Station
+724 - Find Pivot Index
+1991 - Find the Middle Index
+2529 - Maximum Count of Positive and Negative Integers
+3658 - GCD of Odd and Even Sums
+918 - Maximum Sum Circular Subarray
+877 - Stone Game
+202 - Happy Number
+896 - Monotonic Array
+1492 - Kth Factor of n
 
-Homework Questions
+---
 
---> 498 - Diagonal Traverse
+## Future Goals
 
-Leetcode Questions
+Solve 100+ LeetCode problems
+Learn Dynamic Programming
+Participate in coding contests regularly
 
---> 283 - Move Zeroes --> 31 - Next Permutation
+---
 
-LeetCode Questions
+## Contact
 
---> 344 - Reverse String --> 3110 - Score of a String --> 1678 - Goal Parser Interpretation --> 58 - Length of last word --> 151 - Reverse words in a string --> 557 - Reverse words in a string III --> 125 - Valid Palindrome --> 9 - Palindrome Number --> 389 - Find the Difference --> 242 - Valid Anagram
-
-Leetcode Questions
-
---> 8 String to Integer
+Add your LinkedIn
+Add your GitHub
